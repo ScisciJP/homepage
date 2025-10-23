@@ -1,5 +1,7 @@
 # main links in masthead.html
 main:
+  - title: "Home"
+    url: /
   - title: "Science of scienceとは"
     url: /about/
   - title: "Archive"

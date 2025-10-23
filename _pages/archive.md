@@ -28,6 +28,7 @@ Through these activities, the association aims to achieve research results that 
 | 回 | 開催日 | 会場 |  詳細 |
 |2024年 春開催 | Mar. 16-17, 2024 | 伊藤国際謝恩ホール | [詳細ページ](https://sciscijp.github.io/scisciconfJP2024/) |  
 |2024年 秋開催 | Sep. 25, 2024 | ハイブリッド（東京・オンライン）| [詳細ページ](https://sciscijp.github.io/scisciconf2024_A/) |
+|2025年 春開催 | May. 31- Jun. 1, 2025 | 東京大学工学部大講堂 | [詳細ページ](https://2025.scisci.jp/) |
 {: .dates-table}
 
 [Homeに戻る]({{ site.baseurl }}/)

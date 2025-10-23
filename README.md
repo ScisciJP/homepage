@@ -42,6 +42,9 @@ git push origin <branch_name>
 - push後は、プルリクエストを出してください。
 - プログラム委員が確認次第、随時更新します。
 
+## Set up google search console
+
+https://ikmnjrd.github.io/blog/google-search-console-regist
 
 # プログラム運営委員
 
