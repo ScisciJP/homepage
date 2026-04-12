@@ -2,9 +2,10 @@
 title: "Science of Science 研究会"
 layout: splash
 permalink: /
+classes: home-page
 header:
-  overlay_image: "/assets/images/istock_tokyo.jpg"
-  caption: 'Photo @ iStock'
+  overlay_color: "transparent"
+  overlay_filter: 0
 ---
 
 <div style="background-color:#4CAF50; color:white; padding:15px; text-align:center; border-radius:5px;">

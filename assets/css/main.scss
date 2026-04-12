@@ -9,6 +9,13 @@ $link-color: #2020df;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// overriding the header image size and position
+.page__hero--overlay {
+  background-size: 100% auto;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
 // overriding the color of the splash image caption
 .page__hero {
   &--overlay {
@@ -21,7 +28,20 @@ $link-color: #2020df;
        font-size: 30px;
        color: #fff;
        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, 2px 2px 4px black;
-
     }
+  }
+}
+
+// home page only: transparent header with black text
+.home-page .page__hero--overlay {
+  background-color: transparent !important;
+  background-image: none !important;
+  .page__title {
+    color: #000;
+    text-shadow: none;
+  }
+  .page__lead {
+    color: #000;
+    text-shadow: none;
   }
 }
