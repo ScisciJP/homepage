@@ -1,16 +1,13 @@
 ---
-title: "Science of Science 研究会"
+title: "過去の開催情報"
 layout: splash
 permalink: /archive/
 header:
   overlay_image: "/assets/images/iStock-1453081662.jpg"
-  caption: '<a href="https://www.istockphoto.com/jp/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%88/%E3%83%AA%E3%82%B9%E3%83%9C%E3%83%B3%E5%B8%82%E5%86%85%E4%B8%AD%E5%BF%83%E9%83%A8%E3%81%AE%E6%9B%B8%E5%BA%97-gm1453081662-489186411" target="_blank">Photo @ iStock</a>'
-
+  caption: 'Photo @ iStock'
 
 ---
 
-
-## Science of science研究会
 過去に開催したScience of Science 研究会の情報を掲載しています。
 
 <!-- The Science of Science Research Association was established by a group of volunteer researchers in response to the growing attention in this field, with the aim of creating an outstanding research community among researchers involved in Science of Science in Asian countries, including Japan.
@@ -26,8 +23,10 @@ Through these activities, the association aims to achieve research results that 
 .dates-table del { color: #888; }
 </style>
 | 回 | 開催日 | 会場 |  詳細 |
-|2024年 春開催 | Mar. 16-17, 2024 | 伊藤国際謝恩ホール | [詳細ページ](https://sciscijp.github.io/scisciconfJP2024/) |  
-|2024年 秋開催 | Sep. 25, 2024 | ハイブリッド（東京・オンライン）| [詳細ページ](https://sciscijp.github.io/scisciconf2024_A/) |
+|第4回 | Jul. 4-5, 2026 | 神戸大学 | [詳細ページ](https://sciscijp.github.io/scisciconfJP2026/) |
+|第3回 | May. 31 - Jun. 1, 2025 | 東京大学 工学部1号館 |  |
+|第2回 | Sep. 25, 2024 | ハイブリッド（東京・オンライン）| [詳細ページ](https://sciscijp.github.io/scisciconf2024_A/) |
+|第1回 | Mar. 16-17, 2024 | 東京大学 伊藤国際謝恩ホール | [詳細ページ](https://sciscijp.github.io/scisciconfJP2024/) |  
 {: .dates-table}
 
 [Homeに戻る]({{ site.baseurl }}/)
